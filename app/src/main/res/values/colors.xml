@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorSplashBackground">#0F40F0</color>
+    <color name="colorPrimary">#5175F4</color>
+    <color name="colorPrimaryDarker">#1B2C69</color>
+    <color name="colorPrimaryDark">#0F40F0</color>
+    <color name="colorPrimaryLight">#D9E0FD</color>
+    <color name="colorPrimaryLighter">#F2F6FD</color>
+    <color name="colorAccent">#65CDBF</color>
+    <color name="colorAccentDark">#37A99A</color>
+    <color name="colorWhite">#f9fafa</color>
+    <color name="colorBlack">#22272A</color>
+    <color name="colorError">#D32F2F</color>
+    <color name="colorVerifiedBackground">#80FFFFFF</color>
+    <color name="loadingBackground">#D2FFFFFF</color>
+</resources>
